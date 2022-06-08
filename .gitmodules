@@ -1,3 +1,6 @@
 [submodule "lab01"]
 	path = lab01
 	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP2511/22T2/students/z5360841/lab01.git
+[submodule "lab02"]
+	path = lab02
+	url = gitlab@gitlab.cse.unsw.EDU.AU:COMP2511/22T2/students/z5360841/lab02.git
